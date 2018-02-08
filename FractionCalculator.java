@@ -245,6 +245,7 @@ public class FractionCalc {
 			System.out.println(x + " " + op + " " + y + " = " + n);
 		} else {
 			System.out.println(x + " " + op + " " + y + " = " + result);
-		}		
+		}
+		
 	}
 }
